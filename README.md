@@ -22,7 +22,7 @@ Puede emplearse Visual Studio, Rider, Visual Studio Code u otro editor compatibl
 1.  **Clonar** este repositorio o descargar el contenido en formato ZIP:
 
 ```bash
-git clone https://github.com/usuario/igloolab-test-backend-CSharp.git
+git clone https://github.com/SneiderFuentes/igloolab-test-backend-CSharp.git
 cd igloolab-test-backend-CSharp
 ```
 
