@@ -1,4 +1,4 @@
-# Igloolab Test Backend (C#)
+# Igloobal Test Backend (C#)
 Este repositorio corresponde a una API REST implementada con **ASP.NET Core (net8.0)**, **Entity Framework Core** y **PostgreSQL**, enfocada en la gestión de productos farmacéuticos. Su propósito es ilustrar una arquitectura básica para exponer y consumir datos relacionados con productos a través de endpoints HTTP.
 
 ## Requisitos Previos
@@ -22,8 +22,8 @@ Puede emplearse Visual Studio, Rider, Visual Studio Code u otro editor compatibl
 1.  **Clonar** este repositorio o descargar el contenido en formato ZIP:
 
 ```bash
-git clone https://github.com/SneiderFuentes/igloolab-test-backend-CSharp.git
-cd igloolab-test-backend-CSharp
+git clone https://github.com/SneiderFuentes/igloobal-test-backend-c-sharp.git
+cd igloobal-test-backend-c-sharp
 ```
 
 2.  **Examinar el archivo de proyecto (.csproj)**
